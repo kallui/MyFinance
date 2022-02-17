@@ -1,0 +1,15 @@
+{
+    "spendinglist": [
+        {
+            "amount": 123,
+            "comment": "game",
+            "category": "ENTERTAINMENT"
+        },
+        {
+            "amount": 345,
+            "comment": "snacks",
+            "category": "SHOPPING"
+        }
+    ],
+    "user": "niko"
+}

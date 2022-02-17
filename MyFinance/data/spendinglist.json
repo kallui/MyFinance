@@ -1,0 +1,15 @@
+{
+    "spendinglist": [
+        {
+            "amount": 123,
+            "comment": "asdasd",
+            "category": "GROCERY"
+        },
+        {
+            "amount": 43242,
+            "comment": "asdasd",
+            "category": "GROCERY"
+        }
+    ],
+    "user": "spending list"
+}
